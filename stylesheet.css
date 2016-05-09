@@ -1,0 +1,51 @@
+body{
+  background-color:black;
+}
+.container{
+  text-align:center;
+  margin-top: 50px;
+  width:40%;
+}
+.glyphicon-search{
+  font-size:60px;
+  color: #CC6600;
+}
+#instruction{
+  color:white;
+  font-size:20px;
+}
+#searchBox{
+  border:none;
+  width:90%;
+  background-color:black;
+  font-color:black;
+  font-size:20px;
+}
+#clear{
+  color:#CC6600;
+}
+#form{
+  border-radius:15px;
+  border:solid;
+  border-color:#CC6600;
+}
+
+input{
+    color: #ffffff;
+}
+
+#result{
+width:80%;
+text-align:center;
+color:#000000;
+margin-left:10%;
+}
+#results{
+  text-align:left;
+  border:solid;
+  margin:10px;
+  background-color:#ffffff;
+}
+#noResults{
+  color:white;
+}
